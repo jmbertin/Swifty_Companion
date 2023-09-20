@@ -1,6 +1,7 @@
 # Swifty_Companion - React Native
 
 Welcome to the Swifty_Companion repository, developed using React Native! This application is compatible with Android platforms. This is my third React Native project.
+This project aims to create an application capable of connecting to API 42 and displaying certain information concerning students.
 
 ![Demo GIF](./screenshots/01.png)
 
